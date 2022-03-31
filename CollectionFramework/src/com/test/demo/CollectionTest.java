@@ -39,6 +39,7 @@ public class CollectionTest {
 	      }
 	      for(int m: map.keySet()){    
 		       System.out.println(m);  
+		      System.out.println("Tapan"+m);
 		      }
 	}
 
